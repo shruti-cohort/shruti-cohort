@@ -11,7 +11,7 @@
 
 #### Talking about Personal Stuffs:
 
-🎓 Engineering Grad'24 pursuing my bechelor in CSE from AKTU.<br/>
+🎓 Engineering Grad'24 pursuing my bachelor in CSE from AKTU.<br/>
 👨‍💻 I have previously worked as a Fullstack intern at TryFid Pvt. Ltd.<br/>
 🎯 I have a keen interest in frontend development and am trying my hands on backend development.<br/>
 
